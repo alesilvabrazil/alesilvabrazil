@@ -1,3 +1,5 @@
+<p dir="auto">CTO @AiPress.</p>
+
 - 👋 Hi, I’m @alesilvabrazil
 - 👀 I’m interested in ... Learning
 - 🌱 I’m currently learning ... Web Full Stack developer
