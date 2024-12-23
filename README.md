@@ -31,6 +31,7 @@ Bóra embarcar nessa viagem! 8^)
 #Estou aprendendo!
 </br>
 </br>
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width=50px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width=50px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50px />
@@ -40,6 +41,7 @@ Bóra embarcar nessa viagem! 8^)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=50px />
+</div>
           
 </br>
 </br>
@@ -48,9 +50,7 @@ Bóra embarcar nessa viagem! 8^)
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesilvabrazil&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alesilvabrazil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-</br>
-</br>
-![Snake animation](https://github.com/alesilvabrazil/alesilvabrazil/blob/output/github-contribution-grid-snake.svg)        
+    
           
           
           
