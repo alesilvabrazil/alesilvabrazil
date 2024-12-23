@@ -19,7 +19,7 @@ Juntos criamos nossa Assessoria de Comunicação, que se chama Ai Press Assessor
 
 Este mundo online foi me conquistando, conquistando e... cá estou! 45 anos de idade e ansioso para iniciar nesse "Mundo Dev".
 
-Estudando Web Full Stack developer em #DigitalHouse #Rocketseat #DigitalInnovationOneInc
+Estudando Web Full Stack developer.
 
 Estou realmente muito agradecido por essa oportunidade.
 
