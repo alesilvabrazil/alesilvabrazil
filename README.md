@@ -26,8 +26,11 @@ Estou realmente muito agradecido por essa oportunidade.
 Vejo que são milhares de caminhos que posso escolher. Sim....isso dá aquele "friozinho na barriga" mas... Como diz uma letra de uma música de um rapaz que ouvi outro dia... "É nóis por nóis"!
 
 Bóra embarcar nessa viagem! 8^)
-<br>
-<br>
+</br>
+</br>
+#Estou aprendendo!
+</br>
+</br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width=50px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width=50px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50px />
