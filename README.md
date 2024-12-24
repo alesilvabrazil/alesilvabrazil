@@ -25,7 +25,7 @@ Estou realmente muito agradecido por essa oportunidade.
 
 Vejo que são milhares de caminhos que posso escolher. Sim....isso dá aquele "friozinho na barriga" mas... Como diz uma letra de uma música de um rapaz que ouvi outro dia... "É nóis por nóis"!
 
-Bóra embarcar nessa viagem! 8^)
+Bóra nessa viagem! 8^)
 </br>
 </br>
 #Estou aprendendo!
